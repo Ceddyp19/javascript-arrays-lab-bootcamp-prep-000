@@ -29,7 +29,7 @@ function appendKitten(){
 
 function prependKitten(){
   kittens = ['Milo', 'Otis', 'Garfield'];
-  kittens = [kittens,...'Broom'];
+  newkittens = 'Broom'
 }
 
 function removeLastKitten(){
