@@ -29,7 +29,6 @@ function appendKitten(){
 
 function prependKitten(){
   kittens = ['Milo', 'Otis', 'Garfield'];
-  kittenName = 'Broom';
   return kittenName.concat(kittens);
 }
 
