@@ -33,7 +33,7 @@ function prependKitten(){
 }
 
 function removeLastKitten(){
-  
+   kittens = ['Milo', 'Otis', 'Garfield'];
 }
 
 function removeFirstKitten(){
