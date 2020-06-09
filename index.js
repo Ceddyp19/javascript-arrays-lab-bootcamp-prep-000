@@ -28,6 +28,7 @@ function appendKitten(){
 }
 
 function prependKitten(){
+  kittens = ['Milo', 'Otis', 'Garfield'];
   
 }
 
