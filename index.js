@@ -24,7 +24,7 @@ function destructivelyRemoveFirstKitten(){
 
 function appendKitten(){
   kittens = ['Milo', 'Otis', 'Garfield'];
-  kittens = [kittens,...'Broom'];
+  [kittens,...'Broom'];
 }
 
 function prependKitten(){
